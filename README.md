@@ -30,4 +30,4 @@ At this moment in time the website does has an extensive menu how it has not yet
 - I ensured that the source was set to 'Deploy from Branch', the Main branch was selected and that the folder was set to Root.
 - I then clicked save and waited for the wesbite to be deployed.
 - GitHub then provided me with a URL for the newly deployed website.
-- Here is my deployed site: 
+- Here is my deployed site: https://laurenforster25.github.io/romeo-and-juliet-eatery/
