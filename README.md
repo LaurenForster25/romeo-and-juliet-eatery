@@ -22,3 +22,12 @@ At this moment in time the website does has an extensive menu how it has not yet
 
 ## Bugs and Testing 
 - So early on in the project I did not encounter any bugs as I am quite comfortable with the use of HTML. However, I do predict that once I start using python and javascript I will run into some errors that will need to be solved.
+
+## Deployment
+- In order to deploy the website on GitHub, I followed the steps below:
+- In the GitHub repository, I navigated towards the settings icon on the top right corner of the page.
+- From there, I selected 'Pages' from the left-hand side bar.
+- I ensured that the source was set to 'Deploy from Branch', the Main branch was selected and that the folder was set to Root.
+- I then clicked save and waited for the wesbite to be deployed.
+- GitHub then provided me with a URL for the newly deployed website.
+- Here is my deployed site: 
